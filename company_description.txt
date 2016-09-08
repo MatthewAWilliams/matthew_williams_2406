@@ -1,0 +1,13 @@
+Company Name?- Williams Game Co.
+Locations?- 3 (Queens, Manhattan, and Brooklyn)
+Number of Employees? - ~35 
+What do we sell?- Video games, consoles, accessories, ... 
+Gross Revenue? -
+Transactions? -Buying and Selling the above products
+Number of transactions per day? - Depends on the day (~40 on a regular day)
+Data archiving and throughputs - 
+Clients? - 
+Suppliers? - Game Developers, pw
+
+ 
+ 
