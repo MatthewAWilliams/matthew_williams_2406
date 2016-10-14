@@ -1,13 +1,13 @@
-Company Name?- Williams Game Co.
-Locations?- 3 (Queens, Manhattan, and Brooklyn)
-Number of Employees? - ~35 
-What do we sell?- Video games, consoles, accessories, ... 
-Gross Revenue? -
-Transactions? -Buying and Selling the above products
-Number of transactions per day? - Depends on the day (~40 on a regular day)
-Data archiving and throughputs(How much data is received daily?)-
-Clients? - The "everyday person", 
-Suppliers? - Game Developers, Publishers,
 
- 
+ The name of my company is called Williams Game Co., a NYC exclusive shop for video games and related software and 
+hardware. Williams Game Co. has 5 locations throughout New York City, two locations in Manhatten, two in Queens and 
+one in Brooklyn. Each location would have 3 managers and 15 employees to rotate from day to day. Products sold by 
+Williams Game Co. include video games, consoles, any hardware for the consoles. The gross annual income will come from
+the sales of products (games range from $30-$60, consoles range from $120-$400). Employees would be paid $9.00/hr, managers
+will make $15.00/hr and all will be paid bi-weekly. Including an estimate for miscellenious expenses (repairs to stores, 
+paying suppliers, etc) annual income is ~$3.5 million. Most transactions from the company will be selling the different products
+on the floor. Others will include buying items back from customers, placing orders and exchanges. Throughput for the company
+will be mainly customer orders and emailing suppliers about restock and transactions with them. Our clients will be any person 
+who has any level of interest with video games. Our suppliers are video game publishers and console manufactuers
+(Microsoft, Sony, and Nintendo).
  
