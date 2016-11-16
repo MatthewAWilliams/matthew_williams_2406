@@ -1,0 +1,14 @@
+21. Functional requirements for the client are telling clients how much of a product is left,
+fulfilling orders of products and giving the potential prices of products being sold back
+to the company.
+
+22. Functional requirements for the suppliers are to let them know what products have a low
+inventory so more can be ordered and suppliers being able to tell the company about price 
+changes or product changes.
+
+23. Functional requirements for someone with admin powers are to manually update or correct
+the inventory, give a report of revenue for the month, and adjust prices when sales and 
+events happen.
+
+24. Functional requirements that will help analyze quality is finding treads in the 
+inventory, see which products are not selling well and provide a report of the revenue.
