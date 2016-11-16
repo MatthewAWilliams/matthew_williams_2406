@@ -1,0 +1,13 @@
+19.5 problems that would be solved or improved:
+-Inventory would be updated almost immediately, so less time would be spent counting by hand.
+-Once a transaction is completed, the inventory will automatically update itself.
+-Shipments to and from the different sites would be added or substracted from the inventory just by entering a set of numbers.
+-The inventory will also be updated once an online order is completed.
+-Errors can easily be corrected, from the supplier or on site, by simply going into the system and manualing correcting it. 
+
+20.Sytem Improvement objectives:
+-Reduce time taken to count inventory by 90%
+-No more updating inventory manually after transactions.
+-No more updating inventory manually after shipping or receiving products.
+-No more updating inventory manually after an online order is placed.
+-Any errors in count of inventory can be manually entered into system.

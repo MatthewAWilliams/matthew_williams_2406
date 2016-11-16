@@ -1,0 +1,21 @@
+﻿Scenario 1: no flashdrive, using a public computer. Assuming a github repository already exists,
+explain the steps necessary to modify a file that already exists in the repository.
+-First, install Git client and type in "Git clone ramy_ashour_2406". Modify, add, or remove your files then
+use Git add for the files you worked on or Git Rm for files you want to remove. Type Git commit -m with a
+message you want to add in quotation marks. Finally type Git push.
+
+Scenario 2: using a private computer. Assuming a github repository already exists but isn’t currently
+on the laptop in question, explain the steps necessary to remove a file from the project.
+-First install Git client if it is not on the PC already. Open Git CMD and type "git cd ramy_ashour_2406".
+Follow the reamining steps in Scenerio 1.
+
+Scenario 3: copy of repository on flashdrive, using a public computer. Assuming you already have
+a copy of your repository on a flashdrive, explain the steps necessary to add a new file to the project.
+-Connect the flashdrive to the computer. Add/edit/remove all the files you need to for the project. 
+Type "git cd ramy_ashour_2406" to enterinto the repository directory. Finally type"git commit -m" and "git push".
+
+Scenario 4: two or more private computers, multiple participants. Assuming a github repository
+exists on several private computers and is being modified by various participants over time, explain the
+steps necessary for you to modify a file in the project. Assume that you’ve just been notified by one of
+your team members that they’ve just updated the project.
+-Type"Git pull" to update yourlocal repository. Followthe stepsin Scenario 3.

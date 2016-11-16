@@ -1,0 +1,22 @@
+14. Williams Game and Co. would combine the elements of two systems. It would be both parts a Transaction Processing
+and Management Information system. Because of the services and products that the company sells to the consumers and
+clients, everyday transactions need to be recorded. The TPS will keep track of any transaction that takes place with 
+Williams Game and Co. and any client or supplier; whether online or in person. The MIS will be a working inventory of
+all of the company's products. Everytime a transaction happens, a customer buys or picks up a game, a supplier delivers 
+a shipment of new products, or a product is returned to one of the stores by a customer, the system is updated immediately,
+if not almost immediately.
+
+ 15. The company needs this system because it will be able to update the comapany's inventory at a great speed, saving the
+company and the workers time and work. It would almost eliminate the need for a physical count.
+
+16. In order the design this system, we would need a count of all of the present existing inventory of all of the company's
+products, the different values of all of the products, and the cost of shipping and receiving products to clients and from suppliers.
+This should take 1-2 weeks to fully complete.
+
+17.Hiring people, buying software, and buying hardware would accounted for. People need to be paid and hired to create the algorithms
+and code for the system. Whatever software the builders and designers need has to be bought the final system wouldhave to burnedon CDs
+,which also have to be bought, and distributed to the different sites. The estimated cost would be 3 months.
+
+18.The people included to make all of theis happen would be sales associates to count on hand inventory and managers to collect the data
+and forward it to the designers. The designers then use that information to help create the system and give the information to the builders.
+A total of 30 associates, 6 managers, 7 designers and 6 builders.
