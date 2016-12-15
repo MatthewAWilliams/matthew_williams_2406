@@ -1,0 +1,9 @@
+Ten ways to test the functionality of the system:
+-Testing the edge case of online order maximum order limit
+-Stress test the email and servers (throughout)
+-Sample test the email, allow a dew customers to access and test the usabilty and 
+functionality of emails and online orders
+-Test the accuracy of the active inventory by emptying the inventory and attempting to enter units
+-Test the ability for suppliers to access the inventory
+-Test that the inventory can track the treads in sales
+-Test the ability to make a report at the end of the month of sales.

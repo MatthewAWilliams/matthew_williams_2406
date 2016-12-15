@@ -1,0 +1,5 @@
+The complete system used in Wiliams and Co. is an active inventory system. It is a system that will
+automatically update once a sale or transcation takes place. It will take note of the amount of 
+certain products are being sold and report these trends at the end of the month along with
+general sales revenue. Customers will be about to make orders online and the system will notify
+the store's managers when to contact suppliers for another shippment.
